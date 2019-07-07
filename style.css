@@ -18,5 +18,5 @@ h1 {
 nav {
   text-align: center;
   padding-right, padding-left: 10px;
-  color-interpolation: : grey;
+  color-rendering: grey;
 }
