@@ -22,4 +22,8 @@ nav {
   background-color: grey;
 }
 
-p#
+p.featured-property {
+  text-align: centre;
+  width: 800px;
+}
+
